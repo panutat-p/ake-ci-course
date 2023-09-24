@@ -14,6 +14,8 @@ prettier --write .
 
 ## Resources
 
+https://docs.github.com/en/actions/quickstart
+
 https://github.com/codingthailand
 
 https://gitlab.com/codingthailand
